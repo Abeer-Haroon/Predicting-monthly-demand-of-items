@@ -18,6 +18,10 @@ This tutorial takes about 20 minutes to complete if you already have an IBM clou
 2. Create an instance of the Cloud Object Storage
    - Go to the [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) page in the IBM Cloud Catalog.
    - Click **Create**.
+   
+3. Create an instance of the IBM Cognos Dashboard Embedded
+   - Go to the [IBM Cognos Dashboard Embedded](https://cloud.ibm.com/catalog/services/ibm-cognos-dashboard-embedded) page in the IBM Cloud Catalog.
+   - Click **Create**.
 
 4. Create an instance of the Watson Studio
    - Go to the [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio?bss_account=e366b6e4fb004c5eaccfbe7042b670a4) page in the IBM Cloud Catalog.
